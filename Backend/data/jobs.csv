@@ -1,0 +1,11 @@
+job_title,company,job_description
+Data Scientist,ABC Tech,"python machine learning statistics data analysis pandas numpy"
+AI Engineer,NextGen AI,"deep learning tensorflow pytorch neural networks python ai"
+Web Developer,TechSoft,"react javascript html css frontend backend web development"
+Backend Developer,CloudCore,"nodejs api database backend development python fastapi"
+Data Analyst,Insight Ltd,"excel sql powerbi data visualization analytics business intelligence"
+Machine Learning Engineer,VisionX,"machine learning model deployment python scikit learn ai"
+Software Engineer,DevWorks,"java spring boot backend microservices software development"
+Frontend Developer,UI Labs,"react ui ux javascript frontend web design"
+DevOps Engineer,InfraTech,"docker kubernetes aws cloud ci cd deployment"
+Python Developer,CodeBase,"python scripting automation backend development api"

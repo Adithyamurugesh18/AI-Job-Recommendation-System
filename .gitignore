@@ -1,0 +1,16 @@
+@"
+# Python
+__pycache__/
+*.py[cod]
+venv/
+.venv/
+.env
+
+# React
+node_modules/
+build/
+npm-debug.log*
+
+# IDE
+.vscode/
+"@ | Set-Content .gitignore
